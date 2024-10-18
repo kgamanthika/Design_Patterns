@@ -1,0 +1,7 @@
+
+0
+java:S1220""Move this file to a named package.
+O
+java:S2168-"9Remove this dangerous instance of double-checked locking.(×²å
+E	java:S106<"+Replace this use of System.out by a logger.(ÍÎÆ¥ùÿÿÿÿ
+@	java:S106@"+Replace this use of System.out by a logger.(ïæà
